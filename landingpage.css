@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+    }
+    .landingpage{
+    color:aquamarine;
+    }
+    .landingpage > .headlinks{
+    color: aquamarine;
+    gap: 10px;
+    padding: 16px;
+    border: 4px papayawhip;
+    display:flex;
+    align-items: flex-start;
+    }
+    a{
+    color:bisque;
+    }
+    .landingpage > .content{
+    color:aliceblue;
+    }
+    
